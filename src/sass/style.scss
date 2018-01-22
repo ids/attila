@@ -540,7 +540,7 @@ img {
 	height: 100%;
 	top: 0;
 	right: 0;
-	background: $color-gray-95;
+	background: #333;
 	border-left: 1px solid $color-gray-90;
 	z-index: 400;
 	overflow: hidden;
@@ -654,7 +654,7 @@ img {
 }
 #menu li a:hover,
 #menu li a:focus {
-	color: $color-black;
+	color: $color-gray-98;
 	background: rgba(0,0,0,0.05);
 }
 #menu li a i {
@@ -664,7 +664,7 @@ img {
 	color: inherit;
 }
 #menu li.active a {
-	color: $color-black;
+	color: $color-gray-98;
 	font-weight: 500;
 }
 
