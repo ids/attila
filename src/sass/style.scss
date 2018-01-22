@@ -611,6 +611,7 @@ img {
 	opacity: 0.5;
 	font-size: 0.75em;
 	line-height: 2em;
+	color: $color-gray-98;
 }
 #menu ul {
 	position: relative;
@@ -647,7 +648,7 @@ img {
 #menu li a {
 	display: block;
 	padding: 1.25em 1.5em;
-	color: $color-blue-15;
+	color: $color-gray-98;
 	white-space: nowrap;
 	text-overflow: ellipsis;
 	font-weight: 400;
