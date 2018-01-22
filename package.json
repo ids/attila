@@ -1,7 +1,7 @@
 {
-	"name": "attila",
-	"description": "Ghost Theme",
-	"demo": "http://attila.zutrinken.com",
+	"name": "minimial",
+	"description": "Minimal & Clean Ghost Theme",
+	"demo": "http://blog.intelligent-design.ca",
 	"version": "1.4.0",
 	"engines": {
 		"ghost": ">=1.0.0"
@@ -12,9 +12,9 @@
 		"mobile": "src/screenshot-mobile.jpg"
 	},
 	"author": {
-		"name": "Peter Amende",
-		"email": "xoxo@zutrinken.com",
-		"url": "http://zutrinken.com"
+		"name": "Sean Hignett",
+		"email": "sean@intelligent-design.ca",
+		"url": "http://intelligent-design.ca"
 	},
 	"gpm": {
 		"type": "theme",
@@ -29,7 +29,7 @@
 	],
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/zutrinken/attila.git"
+		"url": "https://github.com/ids/minimal.git"
 	},
 	"devDependencies": {
 		"autoprefixer-core": "^5.2.1",
